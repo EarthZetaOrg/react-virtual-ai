@@ -1,8 +1,6 @@
 # Introduction
 
-`@EarthZetaOrg/react-virtual-ai` is a React client SDK that offers a collection of React UI components to easily integrate with VIRTUAL. For non-React frontend frameworks, we also provide several JavaScript helper functions and services to help ease the integration.
-
-Gitbook: https://virtualprotocol.gitbook.io/whitepaper/technical-documentation/modular-consensus-framework/inference-by-dapps
+React Virtual AI is a React client SDK that offers a collection of React UI components to easily integrate with VIRTUAL. For non-React frontend frameworks, we also provide several JavaScript helper functions and services to help ease the integration.
 
 ## Examples
 
@@ -16,21 +14,19 @@ Examples are available here: https://github.com/EarthZetaOrg/react-virtual-ai/tr
 
 ## Usage
 
-To install `@EarthZetaOrg/react-virtual-ai` in your React project, follow these simple steps:
+To install `@virtual-protocol/react-virtual-ai` in your React project, follow these simple steps:
 
 ### Step 1: Installation
 
 ```bash
-npm install @EarthZetaOrg/react-virtual-ai --save
+npm install @virtual-protocol/react-virtual-ai --save
 ```
 
 or
 
 ```bash
-yarn add @EarthZetaOrg/react-virtual-ai
+yarn add @virtual-protocol/react-virtual-ai
 ```
-
-Reference: https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
 
 ### Step 2: Obtain Your API Key and Secret
 
@@ -96,7 +92,7 @@ There
 import {
   CharacterRoom,
   UNSAFE_initAccessToken,
-} from "@EarthZetaOrg/react-virtual-ai";
+} from "@virtual-protocol/react-virtual-ai";
 
 return (
   <CharacterRoom
