@@ -176,6 +176,14 @@ There are several util functions provided, you may utilize separately for specif
 
 JSDocs comments are available in the components, classes and functions. Kindly follow the comments for more details.
 
-## Contributing
+## 👋 Contact Me
 
-We welcome contributions! If you find a bug or have a feature request, please open an issue. Pull requests are also appreciated.
+### 
+Telegram: https://t.me/earthzeta
+###
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
